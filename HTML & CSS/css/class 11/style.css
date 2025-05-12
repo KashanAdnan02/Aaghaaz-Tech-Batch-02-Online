@@ -1,0 +1,40 @@
+/* *{
+    color: blue;
+} */
+
+/* h1{
+    color: red;
+} */
+
+/* .text-2 {
+    color: yellow;
+}
+
+
+#text-3 {
+    color: purple;
+}
+
+
+ul li {
+    color: chartreuse;
+} */
+
+
+/* ul>li {
+    color: rgb(55, 155, 88);
+} */
+
+/* body {
+    background-color: black;
+    color: white;
+} */
+
+#text-3 {
+    color: rgba(255, 0, 0, 1);
+    /* opacity: 0.1; */
+    background-color: blue;
+}
+
+/* 0 to 1 */
+/* 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1 */
