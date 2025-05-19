@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+}
+
+.box {
+    width: 200px;
+    height: 100px;
+    /* background-color: red; */
+    /* background: linear-gradient(#fc00ff, #00dbde); */
+    border-color: black;
+    /* border-width: 5px; */
+    /* border-style: groove;
+    border-top-width: 5px;
+    border-left-width: 15px;
+    border-bottom-width: 25px;
+    border-right-width: 15px;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-right-style: groove;
+    border-left-style: double;
+    border-top-color: yellow;
+    border-bottom-color: red;
+    border-left-color: blue;
+    border-right-color: violet; */
+    /* margin: 40px; */
+    padding: 5px 0px 0px 15px;
+    border-width: 5px 15px 25px 15px;
+    border-style: solid dashed groove double;
+    border-color: yellow green blue red;
+    margin: 20px;
+}
+
+h1 {
+    /* color: blue; */
+}
