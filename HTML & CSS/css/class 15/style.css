@@ -1,0 +1,56 @@
+/* h1 {
+    border: 1px solid red;
+    width: 400px;
+}
+
+b {
+    border: 1px solid red;
+} */
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI';
+}
+
+
+.container {
+    width: 150px;
+    height: 450px;
+    background-color: wheat;
+    position: relative;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-color: limegreen;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* position: relative; */
+    top: 20px;
+    left: 40px;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-color: darkmagenta;
+    position: absolute;
+    top: 20px;
+    /* left: 300px; */
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    position: absolute;
+    right: 0;
+    /* z-index: 99; */
+}
