@@ -28,6 +28,11 @@ var classes = ["2 to 5", "5 to 6", "7 to 8"]
 
 prompt("Enter your name")
 prompt("Enter your progress")
+
+// if prgress  === " comlplted"
+
+["completed", "revei", "in-prohect"]
+array[0] = name
 alert(students[2])
 
 alert(courses)
